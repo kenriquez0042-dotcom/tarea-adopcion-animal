@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="wHrRlJ3Bus4PE0hgJamo">
+    <mxGraphModel dx="1220" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-9" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4B8bhzCaPrSof-4b7CFy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-1" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;br&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;1. &lt;/span&gt;&lt;span&gt;CAPA &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;PRESENTACIÓN&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Interfaz &lt;/span&gt;&lt;span&gt;web &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Ciudadano &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Voluntario &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Veterinario &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Administrador&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="38" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-10" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4B8bhzCaPrSof-4b7CFy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-2" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;br&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;2. &lt;/span&gt;&lt;span&gt;CAPA &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;CONTROL&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Controlador &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;rescates &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Controlador &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;adopciones &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Controlador &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;usuarios&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="38" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-11" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4B8bhzCaPrSof-4b7CFy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;br&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;3. &lt;/span&gt;&lt;span&gt;CAPA &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;LÓGICA &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;NEGOCIO&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;GestorCasos &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Gestión &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;expedientes &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Gestión &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;adopciones &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Notificaciones&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="38" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-12" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4B8bhzCaPrSof-4b7CFy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-4" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;4. &lt;/span&gt;&lt;span&gt;CAPA &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;PERSISTENCIA&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Repositorios &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Acceso &lt;/span&gt;&lt;span&gt;y &lt;/span&gt;&lt;span&gt;consulta &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;datos&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="38" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-5" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;br&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;5. &lt;/span&gt;&lt;span&gt;BASE &lt;/span&gt;&lt;span&gt;DE &lt;/span&gt;&lt;span&gt;DATOS&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Usuarios &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Casos &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;rescate &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Expedientes &lt;/span&gt;&lt;span&gt;animales &lt;/span&gt;&lt;span&gt;• &lt;/span&gt;&lt;span&gt;Solicitudes &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;adopción&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="38" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-6" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" value="&lt;span&gt;Arquitectura &lt;/span&gt;&lt;span&gt;General &lt;/span&gt;&lt;span&gt;del &lt;/span&gt;&lt;span&gt;Sistema &lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="322" x="92" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-18" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4B8bhzCaPrSof-4b7CFy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-13" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="&lt;b&gt;&lt;u&gt;master&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;Versión estable de entrega&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="560" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-19" edge="1" parent="1" source="4B8bhzCaPrSof-4b7CFy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4B8bhzCaPrSof-4b7CFy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-14" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;br&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;b&gt;&lt;u&gt;develop&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Integración &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;cambios&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-15" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;b&gt;&lt;u&gt;feature/diagramas-uml&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Desarrollo &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;diagramas &lt;/span&gt;&lt;span&gt;y &lt;/span&gt;&lt;span&gt;funcionalidades&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="560" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="4B8bhzCaPrSof-4b7CFy-16" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=19;" value="&lt;code&gt;&lt;span&gt;Gestión &lt;/span&gt;&lt;span&gt;de &lt;/span&gt;&lt;span&gt;versiones &lt;/span&gt;&lt;span&gt;– &lt;/span&gt;&lt;span&gt;Gitflow&lt;/span&gt;&lt;/code&gt;&lt;span&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="550" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
